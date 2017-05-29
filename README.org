@@ -1,0 +1,27 @@
+* McGibbon's Chamber Music
+| Ford Number | Year | City       | Instrumentation               | Quantity | Sources                                 |
+|-------------+------+------------+-------------------------------+----------+-----------------------------------------|
+| F1          | 1729 | Edinburgh  | Two GF/Vs & bass              | Six      | LoC: primo & basso                      |
+| F2          | 1734 | Edinburgh  | Two GF/Vs & bass              | Six      | LoC: primo & basso; KC: secondo & basso |
+| F3          | 1740 | Edinburgh  | GF/V & bass                   | Six      | LoC; SB                                 |
+| F4          | n.d. | London     | Two GF                        | Six      | CU; EPL; NLS; EU; GU                    |
+| F5          | n.d. | London     | Two GF/Vs & bass              | Six      | KC: incomplete; CU: primo; BL: primo    |
+| F6          | 1727 | Edinburgh  | Two GF/Vs & bass              | Six      | LoC: primo & basso                      |
+| F7          | 1735 | [Scotland] | V & bass                      | Two      | NLS (McFarlane MS)                      |
+| F8          | n.d. | ?          | [Concerti grossi & Overtures] | ?        | Lost                                    |
+
+** Library Abbreviations
+| Abbreviation | Library                       |
+|--------------+-------------------------------|
+| BL           | British Library               |
+| CU           | Cambridge University Library  |
+| EPL          | Edinburgh Public Library      |
+| EU           | Edinburgh University Library  |
+| GU           | University of Glasgow Library |
+| KC           | King's College, Cambridge     |
+| LoC          | Library of Congress           |
+| NLS          | National Library of Scotland  |
+| SB           | Stätsbibliotek, Berlin        |
+
+Many thanks to Elizabeth Ford, whose paper /Sources for the chamber music of
+William McGibbon/ is the basis of this project
