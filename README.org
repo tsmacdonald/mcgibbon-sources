@@ -1,7 +1,7 @@
 * McGibbon's Chamber Music
 | Ford Number | Year | City       | Instrumentation               | Quantity | Sources                                 |
 |-------------+------+------------+-------------------------------+----------+-----------------------------------------|
-| F1          | 1729 | Edinburgh  | Two GF/Vs & bass              | Six      | LoC: primo & basso                      |
+| F1          | 1729 | Edinburgh  | Two GF/Vs & bass              | Six      | LoC: primo & basso; KC: secondo         |
 | F2          | 1734 | Edinburgh  | Two GF/Vs & bass              | Six      | LoC: primo & basso; KC: secondo & basso |
 | F3          | 1740 | Edinburgh  | GF/V & bass                   | Six      | LoC; SB                                 |
 | F4          | n.d. | London     | Two GF                        | Six      | CU; EPL; NLS; EU; GU                    |
